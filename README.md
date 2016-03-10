@@ -24,7 +24,7 @@ argenteam.search('insert a query', function(err, res){
 ```
 
 
-** Example ID: 74430, this ID is from Better call saul, you can get IDS using search function.** 
+##### Example ID: 74430, this ID is from Better call saul, you can get IDS using search function.*
 
 ### Fetch torrents and subs of TV Show
 
