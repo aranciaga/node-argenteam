@@ -16,7 +16,7 @@ npm install node-argenteam
 ### Search 
 
 ```
-var argenteam = require('argenteam');
+var argenteam = require('node-argenteam');
 
 argenteam.search('insert a query', function(err, res){
   console.log(err, res);
@@ -29,7 +29,7 @@ argenteam.search('insert a query', function(err, res){
 ### Fetch torrents and subs of TV Show
 
 ```
-var argenteam = require('argenteam');
+var argenteam = require('node-argenteam');
 
 argenteam.getTvShow('TV SHOW ID', function(err, res){
   console.log(err, res);
@@ -38,7 +38,7 @@ argenteam.getTvShow('TV SHOW ID', function(err, res){
 
 ### Fetch torrents and subs of movie
 ```
-var argenteam = require('argenteam');
+var argenteam = require('node-argenteam');
 
 argenteam.getMovie('Movie ID', function(err, res){
   console.log(err, res);
@@ -48,7 +48,7 @@ argenteam.getMovie('Movie ID', function(err, res){
 ### Fetch torrents and subs from an episode of TV show
 
 ```
-var argenteam = require('argenteam');
+var argenteam = require('node-argenteam');
 
 argenteam.getEpisode('Episode ID', function(err, res){
   console.log(err, res);
