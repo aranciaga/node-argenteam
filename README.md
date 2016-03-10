@@ -1,6 +1,6 @@
 # node-argenteam
 
-Get movies, tvshows and subtitles from argenteam.net
+Get movies, TV shows  and subtitles from argenteam.net
 
 
 ## Installation
