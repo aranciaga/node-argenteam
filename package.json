@@ -1,6 +1,6 @@
 {
   "name": "node-argenteam",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get movies, tvshows and subtitles from argenteam.net",
   "main": "lib/node-argenteam.js",
   "scripts": {
